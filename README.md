@@ -1,5 +1,6 @@
 # pooja.singh09@gmail.com
 # renaming_images
+# python version 3 is needed for this script
 
 edits to make: 
 make sure you change the path and out path and edit the image extension
