@@ -18,7 +18,7 @@ file_count = 0
 for filename in os.listdir(path):
     file_count += 1
     # Check if the file is an image
-    if filename.endswith('.jpeg') or filename.endswith('.jpg') or filename.endswith('.png'):
+    if filename.endswith('.jpeg') or filename.endswith('.jpg') or filename.endswith('.JPG'):
         # Load the image
         img = cv2.imread(os.path.join(path, filename))
         
