@@ -4,6 +4,12 @@
 
 edits to make: 
 make sure you change the path and out path and edit the image extension
+# Set the path to the folder containing the pictures
+path = r'./28.9.22_wakhangarapoint'
+
+# Set the path to the output folder
+output_path = r'./28.9.22_wakhangarapoint_out'
+
 
 what the code does:
 this python script identifies fishec identity number in the photo and renames the photo using that number
